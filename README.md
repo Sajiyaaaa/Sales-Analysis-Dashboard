@@ -31,6 +31,4 @@ The dashboard helps track:
 - **Excel / CSV** as data source
 
 
-## 📷 Dashboard Preview
-
 
